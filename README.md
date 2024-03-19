@@ -1,1 +1,1 @@
-Cardcaptor Sakura API project
+openlibrary API project
